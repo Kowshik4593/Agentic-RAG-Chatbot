@@ -1,0 +1,17 @@
+# UI Framework
+streamlit
+
+# Document Parsers
+pypdf
+python-pptx
+pandas
+python-docx
+
+# RAG Core Libraries
+langchain
+langchain-community  # <--- Add this line
+sentence-transformers
+faiss-cpu
+
+# LLM Library
+groq
